@@ -1,4 +1,4 @@
-import type { Board } from 'src/NardiEngine/types';
+import type { Board } from 'src/types';
 
 export const EMPTY_BOARD: Board = {
   1: null,
